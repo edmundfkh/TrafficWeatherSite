@@ -11,4 +11,5 @@ Weather Rain Areas.
 http://www.weather.gov.sg/weather-rain-area-50km/
 
 Traffic Condition.
+Usuage of google Traffic Layer [https://developers.google.com/maps/documentation/javascript/trafficlayer]
 https://www.google.com.sg/maps/@1.4142234,103.7856574,14.34z/data=!5m1!1e1
